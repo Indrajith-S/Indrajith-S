@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Indrajith</h1>
 <h3 align="center">My favourite part about my terminal is the green lines ascending privileges in the common matrix.</h3>
-<img align="right" alt="doggo" width="400" src="https://media.tenor.com/Bpbu2-YNL6cAAAAC/hacker-pupper-dog.gif">
+<img align="right" alt="doggo" width="350" src="https://media.tenor.com/Bpbu2-YNL6cAAAAC/hacker-pupper-dog.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indrajith-s&label=Profile%20views&color=0e75b6&style=flat" alt="indrajith-s" /> </p>
 
