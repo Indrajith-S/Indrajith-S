@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Indrajith</h1>
+<h1 align="center">Hey There 👋, I'm Indrajith</h1>
 <h3 align="center">My favourite part about my terminal is the green lines ascending privileges in the common matrix.</h3>
 <img align="right" alt="doggo" width="350" src="https://media.tenor.com/Bpbu2-YNL6cAAAAC/hacker-pupper-dog.gif">
 
