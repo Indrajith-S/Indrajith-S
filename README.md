@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **being a Cybersecurity Analyst**
 
-- 🌱 I’m currently learning **Ethical Hacking**
+- 🌱 I’m currently learning **on being useful**
 
 - 💬 Ask me about **Networking and Security**
 
